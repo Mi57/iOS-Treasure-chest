@@ -3,7 +3,7 @@
 ### Содержание
 
 - [Swift Language](#courses)
-- [iOS](#courses)
+- [iOS](#iOS)
 
 
 ## iOS
